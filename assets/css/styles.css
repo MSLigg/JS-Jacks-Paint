@@ -1,9 +1,14 @@
 body{
   font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  background-color: lightgrey;
  }
  .dim{
-    opacity: 0.1555;
+    opacity: 0.4;
   }
+  
+ .border {
+   border: 3px dotted hotpink;
+ }
 
   .priceDiv {
     border: 1px solid black;
@@ -36,6 +41,4 @@ body{
 
   #paint-info-container {
     height: 5.5em;
-  }
-
-  
+  }  
